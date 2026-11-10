@@ -150,7 +150,7 @@ security reporting with remediation recommendations.
 ## 📬 Connect
 
 **Lavanya Lahari Narra**  
-📧 narralavanyalahari@gmail.com  
+📧 narralavanyalahari83@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/narralavanyalahari)  
 💻 [GitHub](https://github.com/lavanyalahari13/cybersecurity_projects)
 
