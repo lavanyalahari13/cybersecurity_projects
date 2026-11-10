@@ -14,11 +14,12 @@ assessment scenarios.
 
 ## 👩‍💻 About
 
-I am a Software Engineer at Optum (UnitedHealth Group) transitioning into Cybersecurity.  
+I am a Cybersecurity Analyst at Optum (UnitedHealth Group) with 3 years of experience in Vulnerability Research & Analysis (VRA) within
+the Threat & Exposure Management (TEM) team.  
 These projects represent my self-directed learning journey — each one is built from scratch 
 in a lab environment using industry-standard tools aligned with real-world SOC workflows.
 
-> 🎓 Currently pursuing: **Course in Cybersecurity** — SimpliLearn x IIIT Bangalore
+
 
 ---
 
